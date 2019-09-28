@@ -28,6 +28,8 @@ Melbourne, Australia
 
 Osaka, Japan
 
+zurich,switzerland
+
 Calgary, Canada
 
 Sydney, Australia
