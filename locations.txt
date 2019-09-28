@@ -85,7 +85,9 @@ Parsippany, New Jersey
 Haworth, New Jersey
 
 Dhaka, Bangladesh
-Surst, India
+
+Surat, India
+
 Huntington, New York
 
 New York, NY
@@ -125,7 +127,6 @@ Barisal, Bangladesh
 Bagerhat, Bangladesh
 
 Kingston, Canada
-Gopipura, India
 
 Trichy,India
 
