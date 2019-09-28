@@ -118,6 +118,8 @@ Burlington, Canada
 
 Fontainebleau, France
 
+Tarsadi, India
+
 Barisal, Bangladesh
 
 Bagerhat, Bangladesh
@@ -139,4 +141,4 @@ Ciudad de Guatemala, Guatemala
 
 Seoul, SouthKorea
 
-varachha, surat
+minibazar, surat
